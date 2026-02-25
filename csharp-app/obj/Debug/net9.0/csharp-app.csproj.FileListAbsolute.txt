@@ -1,0 +1,14 @@
+C:\Users\kylej\code\fp-vs-oop\csharp-app\bin\Debug\net9.0\csharp-app.exe
+C:\Users\kylej\code\fp-vs-oop\csharp-app\bin\Debug\net9.0\csharp-app.deps.json
+C:\Users\kylej\code\fp-vs-oop\csharp-app\bin\Debug\net9.0\csharp-app.runtimeconfig.json
+C:\Users\kylej\code\fp-vs-oop\csharp-app\bin\Debug\net9.0\csharp-app.dll
+C:\Users\kylej\code\fp-vs-oop\csharp-app\bin\Debug\net9.0\csharp-app.pdb
+C:\Users\kylej\code\fp-vs-oop\csharp-app\obj\Debug\net9.0\csharp-app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kylej\code\fp-vs-oop\csharp-app\obj\Debug\net9.0\csharp-app.AssemblyInfoInputs.cache
+C:\Users\kylej\code\fp-vs-oop\csharp-app\obj\Debug\net9.0\csharp-app.AssemblyInfo.cs
+C:\Users\kylej\code\fp-vs-oop\csharp-app\obj\Debug\net9.0\csharp-app.csproj.CoreCompileInputs.cache
+C:\Users\kylej\code\fp-vs-oop\csharp-app\obj\Debug\net9.0\csharp-app.dll
+C:\Users\kylej\code\fp-vs-oop\csharp-app\obj\Debug\net9.0\refint\csharp-app.dll
+C:\Users\kylej\code\fp-vs-oop\csharp-app\obj\Debug\net9.0\csharp-app.pdb
+C:\Users\kylej\code\fp-vs-oop\csharp-app\obj\Debug\net9.0\csharp-app.genruntimeconfig.cache
+C:\Users\kylej\code\fp-vs-oop\csharp-app\obj\Debug\net9.0\ref\csharp-app.dll
